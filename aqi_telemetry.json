@@ -1,0 +1,12 @@
+{
+    "deviceId": "AQI-Edge-Device",
+    "timestamp": "2026-10-28T06:53:03.537524+00:00",
+    "pollutants": {
+        "PM2.5": 65.0,
+        "PM10": 110.0,
+        "NO2": 30.0,
+        "CO": 1.2
+    },
+    "predictedAQI": 136.8,
+    "inferenceMode": "local"
+}

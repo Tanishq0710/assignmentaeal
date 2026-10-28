@@ -1,0 +1,15 @@
+venv/
+myenv/
+tf311/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+
+# Large datasets
+*.csv
+*.xlsx
+
+# Temporary files
+.ipynb_checkpoints/
+aqi_model.pkl
